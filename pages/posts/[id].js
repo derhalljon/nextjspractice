@@ -40,4 +40,3 @@ export async function getStaticProps({ params }) {
         }
     }
 }
-// Reynir is still gay
