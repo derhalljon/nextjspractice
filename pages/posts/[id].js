@@ -40,3 +40,5 @@ export async function getStaticProps({ params }) {
         }
     }
 }
+
+//Reynir is not gay...maybe
