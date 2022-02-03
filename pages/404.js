@@ -3,7 +3,7 @@ import Image from 'next/image'
 const error_avocado = () => (
     <div>
       <ViewSource pathname="../images/error_avocado.jpeg" />
-      <h1>Image Component With Color Data URL</h1>
+      <h1></h1>
       <Image
         alt="Error"
         src="../images/error_avocado.jpeg"
